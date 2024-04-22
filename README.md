@@ -1,8 +1,19 @@
-# HouseNotUnlike
-<b>Inform 7 source code and compiled story for <i>And Then You Come to a House Not Unlike the Previous One</i> by B.J. Best</b>
+# And Then You Come to a House Not Unlike the Previous One
 
-Winner, <a href="https://ifcomp.org/comp/2021">IFComp 2021</a>.  
+An Inform 7 Community Example
 
-More information is available at <a href="https://ifdb.org/viewgame?id=bou58ao7l4eg5z66">IFDB</a>.
+## Description
 
-All rights reserved. If you're making a noncommercial Inform game, feel free to steal code snippets of anything that might be useful.
+Title: Infinite Adventure
+
+Year: 1986
+
+Genre: Adventure
+
+Summary: Wander through an apparently infinite number of spooky mansions, solving a basic puzzle in each one.
+
+## Development
+
+The Source Text is compatible with Inform 7 build 6M62.
+
+The Story File Format should be set to Blorbed Glulx.
